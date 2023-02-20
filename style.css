@@ -1,11 +1,12 @@
 body{
     margin-bottom: 100px;
 }
-span{
+#spn{
     color:red;
 }
 div{
-    background:blue;
+    background:gray;
+    width:400px;
 }
 img{
     width:300px;
@@ -25,19 +26,15 @@ img{
 #form1{
     background-color: skyblue;
     padding: 10px;
-    
+    width:400px;
 }
+    
+
+
 #form1 input{
     margin-left: 20px;
-}
-
-.salma{
-
-
-    background-color: blue;
 
 }
-
 #myform{
     border: 3px;
     padding: 15px;
@@ -45,12 +42,15 @@ img{
 }
 
 
-
-table, th, td{
-    border: 1px solid black;
-    border-collapse: collapse;
+table,th,td{
+    border:1px solid black;
+    text-align: center;
+    width: 400px;
 }
-
-th{
-    text-align: left;
+#tbl{
+    width: 400px;
+    ;
+}
+body{
+    background: gray;
 }
