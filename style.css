@@ -1,0 +1,56 @@
+body{
+    margin-bottom: 100px;
+}
+span{
+    color:red;
+}
+div{
+    background:blue;
+}
+img{
+    width:300px;
+}
+
+#btn1{
+    background-color: tomato;
+    color: white;
+    border: 2px;
+    width: 150px;
+    text-align: center;
+    height: 30px;
+    border-radius: 5px;
+}
+
+
+#form1{
+    background-color: skyblue;
+    padding: 10px;
+    
+}
+#form1 input{
+    margin-left: 20px;
+}
+
+.salma{
+
+
+    background-color: blue;
+
+}
+
+#myform{
+    border: 3px;
+    padding: 15px;
+    background-color: skyblue;
+}
+
+
+
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th{
+    text-align: left;
+}
